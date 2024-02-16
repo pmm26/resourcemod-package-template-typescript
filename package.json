@@ -7,10 +7,14 @@
     "build": "tsc"
   },
   "dependencies": {
+    "drizzle-orm": "^0.29.3",
+    "mysql2": "^3.9.1",
     "resourcemod": "^1.0.22"
   },
   "devDependencies": {
     "@types/node": "^20.11.17",
+    "drizzle-kit": "^0.20.14",
+    "tsx": "^4.7.1",
     "typescript": "^5.3.3"
   }
 }

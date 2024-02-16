@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1708045007269,
+      "tag": "0000_overrated_morph",
+      "breakpoints": true
+    }
+  ]
+}
